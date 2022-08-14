@@ -1,0 +1,84 @@
+/* start main header styling */
+  .main-nav {
+    background-color: #251f1f;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  /* search tab   */
+  .border-box{
+    box-sizing: border-box;
+    margin-top: 10px;
+  }
+
+
+
+  .search-tab{
+    padding: 10px;
+    /* font-size: 17px; */
+    border: 1px solid grey;
+    float: left;
+    width: 70%;
+    border-radius: 5px 0px 0px 5px;
+    border-right: none;
+    /* background: #f1f1f1; */
+  }
+  .btn-search{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  background: white;
+  color: black;
+  /* font-size: 17px; */
+  border: 1px solid grey;
+  border-radius: 0px 5px 5px 0px;
+  border-left: none; 
+  cursor: pointer;
+  }
+
+
+  /* search tab ends here  */
+
+  .btn-login{
+    float: left;
+    margin-top: 10px;    
+    padding: 10px;
+    background: none;
+    color: white;
+    /* font-size: 17px; */
+    border: 1px solid grey;
+    border: none; 
+    cursor: pointer;
+  }
+  .icons{
+    float: left;
+    margin-top: 10px;    
+    padding: 10px 3px 3px 10px;
+    background: none;
+    color: white;
+    cursor: pointer;
+  }
+.header-contact-number{
+  color: #f4ae1a;
+  font-size: 18px;
+}
+.header-contact-email{
+  color: #f4ae1a;
+  font-size: 12px;
+}
+
+
+  .bold-header{
+    font-size:  25px;
+    color: aliceblue;
+  }
+
+
+  /* header ends here  */
+/* start navbar styling  */
+  .bg-color{
+    background-color:  #f8ac1c;
+    height: 40px;
+  }

@@ -1,0 +1,176 @@
+/* start main header styling */
+.max-width {
+  width: 1524px;
+  /* height: 100%; */
+}
+.header-color {
+  background-color: #251f1f;
+  height: 100%;
+  /* display: flex; */
+}
+
+.bold-header {
+  font-size: 25px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+/* search tab   */
+.border-box {
+  box-sizing: border-box;
+  margin-top: 15px;
+  /* padding-left: 50px; */
+}
+/* .icon-box {
+  padding-left: 100px;
+} */
+
+.search-tab {
+  padding: 10px;
+  /* font-size: 17px; */
+  border: 1px solid grey;
+  float: left;
+  width: 55%;
+  border-radius: 5px 0px 0px 5px;
+  border-right: none;
+
+  /* background: #f1f1f1; */
+}
+.btn-search {
+  float: left;
+  width: 15%;
+  padding: 10px;
+  background: white;
+  color: black;
+  /* font-size: 17px; */
+  border: 1px solid grey;
+  border-radius: 0px 5px 5px 0px;
+  border-left: none;
+  cursor: pointer;
+}
+
+/* search tab ends here  */
+
+.btn-login {
+  float: left;
+  margin-top: 20px;
+  padding: 10px;
+  background: none;
+  color: white;
+  /* font-size: 17px; */
+  border: 1px solid grey;
+  border: none;
+  cursor: pointer;
+}
+.icons {
+  /* float: left; */
+  margin-top: 20px;
+  /* padding: 10px 3px 3px 10px; */
+  background: none;
+  color: white;
+  cursor: pointer;
+  font-style: none;
+}
+.header-contact-number {
+  color: #f4ae1a;
+  font-size: 18px;
+  font-weight: bold;
+  /* display: inline-block; */
+  margin: none;
+}
+.header-contact-email {
+  color: #f4ae1a;
+  font-size: 12px;
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 5px;
+  /* padding-bottom: 50px; */
+}
+
+/* header ends here  */
+/* start navbar styling  */
+.bg-color {
+  background-color: #f8ac1c;
+  height: 40px;
+}
+
+/* after sliding image repository stling  */
+
+.after-slide {
+  font-size: 35px;
+  margin-top: 20px;
+  /* margin-bottom: 20px ; */
+  text-align: center;
+}
+
+.image-size > a {
+  display: block;
+  font-size: 10px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+}
+
+.image-size > a:hover {
+  color: blue;
+}
+.image-size > img {
+  border: 1px solid #251f1f;
+}
+
+/* after sliding image repository stling  */
+
+/* carrd button coloring  */
+.color {
+  color: #251f1f;
+  background-color: #f4ae1a;
+  border-color: white;
+  border-radius: 10px;
+}
+
+/* in between section satrts here  */
+
+.inbetween {
+  /* display: block; */
+  height: 80px;
+  background-color: #251f1f;
+  color: #f4ae1a;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.in-between > h6 {
+  margin-top: 10px;
+  display: inline-block;
+  color: white;
+}
+.in-between > p {
+  margin-left: 100px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+/* styling for footer  */
+
+.footer-color {
+  background-color: #f4ae1a;
+  color: #251f1f;
+}
+
+.color-footer > ul a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  text-align: left;
+}
+
+.color-footer > h4,
+.color-footer > ul h4 {
+  font-weight: bold;
+}
+
+.color-footer > h2 i {
+ border: 1px solid #f4ae1a;
+ padding: 2px;
+ border-color: none;
+}
